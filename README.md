@@ -6,6 +6,9 @@ Hyperbolic is a platform dedicated to making AI development accessible and affor
 ## My Apps
 Here are the apps I've created using the Hyperbolic Labs API. Each one highlights a different use case, with links to their repositories and key files for you to explore:
 
-* Custom Chatbot
+- **[Custom Chatbot](https://github.com/0xmoei/chatbot-app)**  
+  A conversational chatbot that interacts with users and answers questions. Built with Python using Hyperbolic Labs' language models.  
+  - [Repository](https://github.com/0xmoei/chatbot-app)  
+  - [Main File](https://github.com/0xmoei/chatbot-app/blob/main/chatbot.py)
 
 
