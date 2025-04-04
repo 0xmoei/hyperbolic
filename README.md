@@ -13,6 +13,6 @@ Here are the apps I've created using the Hyperbolic Labs API. Each one highlight
 - **[RoastMe-SP1](https://github.com/0xmoei/RoastMe-SP1)**  
   In Roast Me, you get roasted by `Hyperbolic's API` and generate a proof of it by `Succinct's SP1 zkVM`!
 
-  ## Guides
-  - **[Step by step guide to Rent and Connect to Hyperbolic GPU servers](https://github.com/0xmoei/Hyperbolic-GPU)**
+## Guides
+- **[Step by step guide to Rent and Connect to Hyperbolic GPU servers](https://github.com/0xmoei/Hyperbolic-GPU)**
 
